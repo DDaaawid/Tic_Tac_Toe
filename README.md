@@ -1,1 +1,2 @@
 # Tic_Tac_Toe
+Vision_Tic_Tac_Toe software, is a proprietary software for playing tic-tac-toe with a computer-controlled plotter. The key feature of this software is the use of a vision system, based on a webcam, which monitors and analyzes the player's movements in real time. Based on the information obtained from the vision system, the software, through the use of advanced algorithms, controls the plotter to make the optimal move to block or defeat the player.
