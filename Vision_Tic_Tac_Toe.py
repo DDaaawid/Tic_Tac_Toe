@@ -195,7 +195,7 @@ def get_empty_positions(board):
     return empty_positions     
 
 def check_win(board,player):
-    for col in range (BOARD_COLS):
+    for col in range (BOARD_COLS): 
         #vertical
         if board[0][col] == board[1][col] == board[2][col] == player:
             return True
